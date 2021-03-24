@@ -1,0 +1,3 @@
+include ':kmmsharedmodule'
+include ':app'
+rootProject.name = "kotlin_proj"
